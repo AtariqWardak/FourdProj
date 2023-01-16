@@ -1,5 +1,5 @@
 public class Salamoona {
     public static void main(String[] args) {
-        System.out.println("AS");
+        System.out.println("HellKLKJLKkworld");
     }
 }
